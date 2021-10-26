@@ -1,5 +1,7 @@
 # Source-jdk
-> jdk源码调试步骤：https://blog.csdn.net/qq_41055045/article/details/112002440
+> jdk源码调试步骤：
+> https://blog.csdn.net/qq_41055045/article/details/112002440
+> https://mp.weixin.qq.com/s/Z0yjIGsKtiJxQpUSVoYLXw
 
 ## debug调试进不去源码，解决办法：
 ![1.png](img/1.png)
